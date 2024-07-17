@@ -45,21 +45,13 @@ A continuacion se presentan las funcionalidades de la aplicacion, así como el e
 Funcionalidades
 
 <ul>
-<li>Funcionalidad 1: Login de usuario</li>
-<li>Funcionalidad 2: Listado de topicos</li>
-<li>Funcionalidad 3: Registro de topico</li>
-<li>Funcionalidad 4: Listado de topico por ID</li>
-<li>Funcionalidad 5: Actualizar topico</li>
-<li>Funcionalidad 6: Borrar topico</li>
+<li>Funcionalidad 1: [Login de usuario](https://github.com/jlha76/Challenge-One---Foro-Hub---Back-End/blob/master/src/main/resources/01%20Login.mp4)</li>
+<li>Funcionalidad 2: [Listado de topicos](https://github.com/jlha76/Challenge-One---Foro-Hub---Back-End/blob/master/src/main/resources/02%20Listado%20de%20topicos.mp4)</li>
+<li>Funcionalidad 3: [Registro de topico](https://github.com/jlha76/Challenge-One---Foro-Hub---Back-End/blob/master/src/main/resources/03%20Registro%20de%20topico.mp4)</li>
+<li>Funcionalidad 4: [Listado de topico por ID](https://github.com/jlha76/Challenge-One---Foro-Hub---Back-End/blob/master/src/main/resources/04%20Listado%20de%20topico%20por%20ID.mp4)</li>
+<li>Funcionalidad 5: [Actualizar topico](https://github.com/jlha76/Challenge-One---Foro-Hub---Back-End/blob/master/src/main/resources/05%20Actualizar%20topico.mp4)</li>
+<li>Funcionalidad 6: [Borrar topico](https://github.com/jlha76/Challenge-One---Foro-Hub---Back-End/blob/master/src/main/resources/06%20Borrar%20topico.mp4)</li>
 </ul>
-
-https://github.com/jlha76/Challenge-One---Foro-Hub---Back-End/blob/master/src/main/resources/01%20Login.mp4
-https://github.com/jlha76/Challenge-One---Foro-Hub---Back-End/blob/master/src/main/resources/02%20Listado%20de%20topicos.mp4
-https://github.com/jlha76/Challenge-One---Foro-Hub---Back-End/blob/master/src/main/resources/03%20Registro%20de%20topico.mp4
-https://github.com/jlha76/Challenge-One---Foro-Hub---Back-End/blob/master/src/main/resources/04%20Listado%20de%20topico%20por%20ID.mp4
-https://github.com/jlha76/Challenge-One---Foro-Hub---Back-End/blob/master/src/main/resources/05%20Actualizar%20topico.mp4
-https://github.com/jlha76/Challenge-One---Foro-Hub---Back-End/blob/master/src/main/resources/06%20Borrar%20topico.mp4
-
 
 </p>
 
